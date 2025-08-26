@@ -42,3 +42,6 @@ Encapsulation → Private patient data with getters/setters.
 Inheritance → Person → Patient / Doctor.
 
 Polymorphism → Method overriding (display), overloading (register).
+
+Abstraction → Interfaces for hospital operations.
+
