@@ -1,6 +1,6 @@
 Patient Registration System--Project Description
 
-The Patient Registration System is a software application designed to manage and store patient details efficiently in a healthcare setting (such as hospitals, clinics, or diagnostic centers). The system provides a structured way for hospital staff to register new patients, maintain records, and retrieve information quickly.
+     The Patient Registration System is a software application designed to manage and store patient details efficiently in a healthcare setting (such as hospitals, clinics, or diagnostic centers). The system provides a structured way for hospital staff to register new patients, maintain records, and retrieve information quickly.
 
  Key Features:
 
