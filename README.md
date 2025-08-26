@@ -36,6 +36,9 @@ A patient arrives at the hospital → Staff enters patient details into the syst
 OOPs concept:
 
 Class & Objects → Patient, Doctor, RegistrationSystem.
+
 Encapsulation → Private patient data with getters/setters.
+
 Inheritance → Person → Patient / Doctor.
-Polymorphism → Method overriding (display), over
+
+Polymorphism → Method overriding (display), overloading (register).
